@@ -1,4 +1,4 @@
 PyQt5==5.15.1
 tuyapy==0.1.4
 requests==2.24.0
-Pillow
+ImageGrab==1.1.3
